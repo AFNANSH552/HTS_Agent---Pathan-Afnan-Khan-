@@ -1,5 +1,5 @@
 # HTS_Agent_Task (no api key required)---Pathan-Afnan-Khan-
-# HTS AI Agent - Free Version 🤖
+# HTS AI Agent - Free Version 🤖  (colab notebook link:- https://colab.research.google.com/drive/1wWAqNijjV8c7ZVWwBW4j00eLallm7JEO?usp=sharing )
 
 A free, no-cost AI agent for Harmonized Tariff Schedule (HTS) classification, duty calculations, and trade policy assistance. No OpenAI API key required!
 
